@@ -1,0 +1,29 @@
+
+/*--HEADER STYLE---- */
+header { 
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+header figure img {
+ margin: 10px;
+}
+
+/*--ASIDE STYLE---- */
+
+aside{
+    width: 35%;
+    float: left;
+    height: 100%;
+}
+aside section li{
+    font-weight: bold;
+    list-style-type: none;
+}
+
+/*--MAIN STYLE---- */
+main{
+    position: absolute;
+    top:380;
+    left:400;
+}
